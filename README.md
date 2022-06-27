@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Online Users in Laravel](https://shouts.dev/articles/how-to-get-online-users-in-laravel)
+- [Simple tailwind landing page content](https://shouts.dev/snippets/simple-tailwind-landing-page-content)
 - [Python Check if a Number is Odd or Even](https://shouts.dev/snippets/python-check-if-a-number-is-odd-or-even)
-- [Restrict Block Allow IP Addresses in Nginx with Examples](https://shouts.dev/articles/restrict-block-allow-ip-addresses-in-nginx-with-examples)
-- [Python Check if a Number is Positive, Negative or Zero](https://shouts.dev/snippets/python-check-if-a-number-is-positive-negative-or-zero)
-- [Python Convert Celsius To Fahrenheit](https://shouts.dev/snippets/python-convert-celsius-to-fahrenheit)
-- [Python Convert Kilometers to Miles](https://shouts.dev/snippets/python-convert-kilometers-to-miles)
+- [Build a avatar card with animation tailwindcss](https://shouts.dev/snippets/build-a-avatar-card-with-animation-tailwindcss)
+- [Laravel File Manager using Spatie Media Library](https://shouts.dev/articles/laravel-file-manager-using-spatie-media-library)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
