@@ -1,0 +1,16 @@
+name: Latest shouts.dev posts workflow
+on:
+  schedule: # cron
+    - cron: '0 0 * * *' # run at 12 AM daily
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest shouts.dev posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://shouts.dev/feed"
