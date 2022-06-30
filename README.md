@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Request Smuggling Vulnerability Scanner with Request Smuggler](https://shouts.dev/articles/http-request-smuggling-vulnerability-scanner-with-request-smuggler)
 - [How to Get Online Users in Laravel](https://shouts.dev/articles/how-to-get-online-users-in-laravel)
 - [Simple tailwind landing page content](https://shouts.dev/snippets/simple-tailwind-landing-page-content)
 - [Python Check if a Number is Odd or Even](https://shouts.dev/snippets/python-check-if-a-number-is-odd-or-even)
 - [Build a avatar card with animation tailwindcss](https://shouts.dev/snippets/build-a-avatar-card-with-animation-tailwindcss)
-- [Laravel File Manager using Spatie Media Library](https://shouts.dev/articles/laravel-file-manager-using-spatie-media-library)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
