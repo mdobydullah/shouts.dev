@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Socialite Login with Google Account With Breeze](https://shouts.dev/articles/laravel-socialite-login-with-google-account-with-breeze)
+- [Laravel 9 Livewire SPA CRUD](https://shouts.dev/articles/laravel-9-livewire-spa-crud)
 - [Vue.js 3 Routing From Scratch Using CDN Without CLI](https://shouts.dev/articles/vuejs-3-routing-from-scratch-using-cdn-without-cli)
 - [Ignore composer require platform in laravel](https://shouts.dev/snippets/ignore-composer-require-platform-in-laravel)
 - [HTTP Request Smuggling Vulnerability Scanner with Request Smuggler](https://shouts.dev/articles/http-request-smuggling-vulnerability-scanner-with-request-smuggler)
-- [How to Get Online Users in Laravel](https://shouts.dev/articles/how-to-get-online-users-in-laravel)
-- [Simple tailwind landing page content](https://shouts.dev/snippets/simple-tailwind-landing-page-content)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
