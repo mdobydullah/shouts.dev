@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Use merge helper to create collection with custom data manually in Laravel](https://shouts.dev/snippets/use-merge-helper-to-create-collection-with-custom-data-manually-in-laravel)
 - [Laravel Socialite Login with Google Account With Breeze](https://shouts.dev/articles/laravel-socialite-login-with-google-account-with-breeze)
 - [Laravel 9 Livewire SPA CRUD](https://shouts.dev/articles/laravel-9-livewire-spa-crud)
 - [Vue.js 3 Routing From Scratch Using CDN Without CLI](https://shouts.dev/articles/vuejs-3-routing-from-scratch-using-cdn-without-cli)
 - [Ignore composer require platform in laravel](https://shouts.dev/snippets/ignore-composer-require-platform-in-laravel)
-- [HTTP Request Smuggling Vulnerability Scanner with Request Smuggler](https://shouts.dev/articles/http-request-smuggling-vulnerability-scanner-with-request-smuggler)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
