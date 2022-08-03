@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Access to Maintenance Mode using Secret Code](https://shouts.dev/articles/laravel-access-to-maintenance-mode-using-secret-code)
+- [Django Python Form Validation Example](https://shouts.dev/articles/django-python-form-validation-example)
+- [Python Convert String into List of Words Example](https://shouts.dev/articles/python-convert-string-into-list-of-words-example)
 - [Go to specific page number by controller in Laravel](https://shouts.dev/snippets/go-to-specific-page-number-by-controller-in-laravel)
 - [RSS Feed Example in Laravel Without Packages](https://shouts.dev/articles/rss-feed-example-in-laravel-without-packages)
-- [Laravel Pint - A PHP Code Style Fixer for Minimalists](https://shouts.dev/articles/laravel-pint-a-php-code-style-fixer-for-minimalists)
-- [Laravel get Duplicate Values from the Collection](https://shouts.dev/articles/laravel-remove-duplicate-values-from-the-collection)
-- [Use merge helper to create collection with custom data manually in Laravel](https://shouts.dev/snippets/use-merge-helper-to-create-collection-with-custom-data-manually-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
