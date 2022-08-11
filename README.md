@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel How to Migrate and Seed specific Table](https://shouts.dev/articles/laravel-how-to-migrate-and-seed-specific-table)
 - [Laravel Access to Maintenance Mode using Secret Code](https://shouts.dev/articles/laravel-access-to-maintenance-mode-using-secret-code)
 - [Django Form Validation Example](https://shouts.dev/articles/django-python-form-validation-example)
 - [Python Convert String into List of Words Example](https://shouts.dev/articles/python-convert-string-into-list-of-words-example)
 - [Go to specific page number by controller in Laravel](https://shouts.dev/snippets/go-to-specific-page-number-by-controller-in-laravel)
-- [RSS Feed Example in Laravel Without Packages](https://shouts.dev/articles/rss-feed-example-in-laravel-without-packages)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
