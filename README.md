@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Custom Validation during Form Submission](https://shouts.dev/articles/laravel-custom-validation-during-form-submission)
+- [How to Detect Slower Queries in Laravel](https://shouts.dev/articles/how-to-detect-slower-queries-in-laravel)
 - [Laravel Eloquent Performance Patterns - Part 1](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-1)
 - [Laravel Global Faker Helper Method](https://shouts.dev/articles/laravel-global-faker-helper-method)
 - [How to clear Laravel log file with terminal](https://shouts.dev/snippets/how-to-clear-laravel-log-file-with-terminal)
-- [Laravel How to Migrate and Seed specific Table](https://shouts.dev/articles/laravel-how-to-migrate-and-seed-specific-table)
-- [Laravel Access to Maintenance Mode using Secret Code](https://shouts.dev/articles/laravel-access-to-maintenance-mode-using-secret-code)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
