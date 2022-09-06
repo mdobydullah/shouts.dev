@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 9 - The squish&lpar;&rpar; helper method](https://shouts.dev/articles/laravel-9-the-squish-helper-method)
+- [Laravel Plural Strings Based on the Count](https://shouts.dev/articles/laravel-plural-strings-based-on-the-count)
 - [Laravel Custom Validation during Form Submission](https://shouts.dev/articles/laravel-custom-validation-during-form-submission)
 - [How to Detect Slower Queries in Laravel](https://shouts.dev/articles/how-to-detect-slower-queries-in-laravel)
 - [Laravel Eloquent Performance Patterns - Part 1](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-1)
-- [Laravel Global Faker Helper Method](https://shouts.dev/articles/laravel-global-faker-helper-method)
-- [How to clear Laravel log file with terminal](https://shouts.dev/snippets/how-to-clear-laravel-log-file-with-terminal)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
