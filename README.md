@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 9 - Swapping Multiple Keywords in a String](https://shouts.dev/articles/laravel-9-swapping-multiple-keywords-in-a-string)
+- [Remove First or Nth Element from List in Django](https://shouts.dev/articles/remove-first-or-nth-element-from-list-in-django)
+- [Laravel 9 - All About Sorting Collection](https://shouts.dev/articles/laravel-9-all-about-sorting-collection)
 - [Laravel 9 - The squish&lpar;&rpar; helper method](https://shouts.dev/articles/laravel-9-the-squish-helper-method)
 - [Laravel Plural Strings Based on the Count](https://shouts.dev/articles/laravel-plural-strings-based-on-the-count)
-- [Laravel Custom Validation during Form Submission](https://shouts.dev/articles/laravel-custom-validation-during-form-submission)
-- [How to Detect Slower Queries in Laravel](https://shouts.dev/articles/how-to-detect-slower-queries-in-laravel)
-- [Laravel Eloquent Performance Patterns - Part 1](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
