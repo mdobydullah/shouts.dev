@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Find data between two date in Laravel](https://shouts.dev/snippets/find-data-between-to-date-in-laravel)
 - [Laravel Eloquent Performance Patterns - Part 2](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-2)
 - [Laravel Ajax File Upload with Progress Bar](https://shouts.dev/articles/laravel-ajax-file-upload-with-progress-bar)
 - [Laravel 9 - Swapping Multiple Keywords in a String](https://shouts.dev/articles/laravel-9-swapping-multiple-keywords-in-a-string)
 - [Remove First or Nth Element from List in Django](https://shouts.dev/articles/remove-first-or-nth-element-from-list-in-django)
-- [Laravel 9 - All About Sorting Collection](https://shouts.dev/articles/laravel-9-all-about-sorting-collection)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
