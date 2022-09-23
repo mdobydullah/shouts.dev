@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Carbon date necessary feature](https://shouts.dev/snippets/carbon-date-necessary-feature)
 - [Laravel collection and cache data to paginate](https://shouts.dev/articles/laravel-collection-and-cache-data-to-paginate)
 - [Find data between two date in Laravel](https://shouts.dev/snippets/find-data-between-to-date-in-laravel)
 - [Laravel Eloquent Performance Patterns - Part 2](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-2)
 - [Laravel Ajax File Upload with Progress Bar](https://shouts.dev/articles/laravel-ajax-file-upload-with-progress-bar)
-- [Laravel 9 - Swapping Multiple Keywords in a String](https://shouts.dev/articles/laravel-9-swapping-multiple-keywords-in-a-string)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
