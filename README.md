@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Send Automatic Email &lpar;Birthday Notification&rpar;](https://shouts.dev/articles/laravel-send-automatic-email-birthday-notification)
+- [Laravel How to Swap Between Different Composer Versions](https://shouts.dev/articles/laravel-how-to-swap-between-different-composer-versions)
 - [Carbon date necessary feature](https://shouts.dev/snippets/carbon-date-necessary-feature)
 - [Laravel collection and cache data to paginate](https://shouts.dev/articles/laravel-collection-and-cache-data-to-paginate)
 - [Find data between two date in Laravel](https://shouts.dev/snippets/find-data-between-to-date-in-laravel)
-- [Laravel Eloquent Performance Patterns - Part 2](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-2)
-- [Laravel Ajax File Upload with Progress Bar](https://shouts.dev/articles/laravel-ajax-file-upload-with-progress-bar)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
