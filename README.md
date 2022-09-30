@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Send Automatic Email &lpar;Birthday Notification&rpar;](https://shouts.dev/articles/laravel-send-automatic-email-birthday-notification)
-- [Laravel How to Swap Between Different Composer Versions](https://shouts.dev/articles/laravel-how-to-swap-between-different-composer-versions)
-- [Carbon date necessary feature](https://shouts.dev/snippets/carbon-date-necessary-feature)
-- [Laravel collection and cache data to paginate](https://shouts.dev/articles/laravel-collection-and-cache-data-to-paginate)
-- [Find data between two date in Laravel](https://shouts.dev/snippets/find-data-between-to-date-in-laravel)
+- [Python Program to Check Leap Year or Not](https://shouts.dev/snippets/python-program-to-check-leap-year-or-not)
+- [Laravel All About Cookies&lpar;Get, Set, Delete&rpar;](https://shouts.dev/articles/laravel-all-about-cookiesget-set-delete)
+- [List All the Models of the Laravel Application](https://shouts.dev/articles/list-all-the-models-of-the-laravel-application)
+- [Laravel Get the Nearest Location by Distance &lpar;in Miles&rpar;](https://shouts.dev/articles/laravel-get-the-nearest-location-by-distance-in-miles)
+- [Laravel Get Current User Location by IP](https://shouts.dev/articles/laravel-get-current-user-location-by-ip)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
