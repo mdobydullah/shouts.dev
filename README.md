@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript - Get Length of Array/Object/Arrays of Object](https://shouts.dev/articles/javascript-get-length-of-array-object-arrays-of-object)
 - [JavaScript - How to Convert an Object to String and Vice Versa](https://shouts.dev/articles/javascript-how-to-convert-an-object-to-string)
 - [Python Program to Check Leap Year or Not](https://shouts.dev/snippets/python-program-to-check-leap-year-or-not)
 - [Laravel All About Cookies&lpar;Get, Set, Delete&rpar;](https://shouts.dev/articles/laravel-all-about-cookiesget-set-delete)
 - [List All the Models of the Laravel Application](https://shouts.dev/articles/list-all-the-models-of-the-laravel-application)
-- [Laravel Get the Nearest Location by Distance &lpar;in Miles&rpar;](https://shouts.dev/articles/laravel-get-the-nearest-location-by-distance-in-miles)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
