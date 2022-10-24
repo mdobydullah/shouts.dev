@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Eloquent Methods withSum&lpar;&rpar;,withMin&lpar;&rpar;,withMax&lpar;&rpar;,withAvg&lpar;&rpar;,withCount&lpar;&rpar;](https://shouts.dev/articles/laravel-eloquent-methods-sum-min-max-avg-count)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 - [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
 - [JavaScript - Get Length of Array/Object/Arrays of Object](https://shouts.dev/articles/javascript-get-length-of-array-object-arrays-of-object)
 - [JavaScript - How to Convert an Object to String and Vice Versa](https://shouts.dev/articles/javascript-how-to-convert-an-object-to-string)
-- [Python Program to Check Leap Year or Not](https://shouts.dev/snippets/python-program-to-check-leap-year-or-not)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
