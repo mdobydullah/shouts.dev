@@ -13,7 +13,7 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Eloquent Methods withSum&lpar;&rpar;,withMin&lpar;&rpar;,withMax&lpar;&rpar;,withAvg&lpar;&rpar;,withCount&lpar;&rpar;](https://shouts.dev/articles/laravel-eloquent-methods-sum-min-max-avg-count)
+- [Laravel Eloquent Methods withSum&lpar;&rpar;, withMin&lpar;&rpar;, withMax&lpar;&rpar;, withAvg&lpar;&rpar;, withCount&lpar;&rpar;](https://shouts.dev/articles/laravel-eloquent-methods-sum-min-max-avg-count)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 - [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
 - [JavaScript - Get Length of Array/Object/Arrays of Object](https://shouts.dev/articles/javascript-get-length-of-array-object-arrays-of-object)
