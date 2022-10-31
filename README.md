@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Integrate Google ReCaptcha v2 in Laravel Application](https://shouts.dev/articles/laravel-9-how-to-integrate-google-recaptcha-in-laravel-application)
 - [Laravel Eloquent Methods withSum&lpar;&rpar;, withMin&lpar;&rpar;, withMax&lpar;&rpar;, withAvg&lpar;&rpar;, withCount&lpar;&rpar;](https://shouts.dev/articles/laravel-eloquent-methods-sum-min-max-avg-count)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 - [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
 - [JavaScript - Get Length of Array/Object/Arrays of Object](https://shouts.dev/articles/javascript-get-length-of-array-object-arrays-of-object)
-- [JavaScript - How to Convert an Object to String and Vice Versa](https://shouts.dev/articles/javascript-how-to-convert-an-object-to-string)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
