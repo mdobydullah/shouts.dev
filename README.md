@@ -37,6 +37,7 @@ We've used these awesome tools to build our application:
       "Horizon (Supervisor)",
       "Notification",
       "Task Scheduling",
+      "Events & Listeners",
    ],
    "javascript_tools":[
       "jQuery",
@@ -46,14 +47,13 @@ We've used these awesome tools to build our application:
       "Toastify JS"
    ],
    "version_management": ["Git", "GitHub"],
-   "server":{
-      "provider": "Amazon AWS",
-      "os": "AlmaLinux",
+   "deployment":{
+      "cloud": "Amazon AWS",
       "aws_services": [
-        "EC2", "S3", "SES", "CloudFront", "CloudWatch", "ELB", "CodeDeploy", "Parameter Store"
-      ]
+        "EC2", "S3", "SES", "CloudFront", "CloudWatch", "ELB", "CodeDeploy", "Parameter Store", "AWS CodeDeploy"
+      ],
+      "running_on": "Docker",
    },
-   "deployment": ["AWS CodeDeploy"],
    "firewall": ["Cloudflare"],
 }
 ```
