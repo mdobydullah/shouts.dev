@@ -27,17 +27,11 @@ We've used these awesome tools to build our application:
 ```json
 {
    "languages" : ["HTML", "CSS", "JavaScript", "PHP"],
-   "framework" : ["Laravel"],
-   "css_framework" : ["Tailwind"],
+   "framework" : "Laravel",
+   "css_framework" : "Tailwind",
    "laravel_features":[
-      "Mail",
-      "Cache (Redis)",
-      "Scout",
-      "Queue",
-      "Horizon (Supervisor)",
-      "Notification",
-      "Task Scheduling",
-      "Events & Listeners",
+      "Mail", "Cache (Redis)", "Scout", "Queue", "Horizon (Supervisor)",
+      "Notification", "Task Scheduling", "Events & Listeners"
    ],
    "javascript_tools":[
       "jQuery",
@@ -50,11 +44,12 @@ We've used these awesome tools to build our application:
    "deployment":{
       "cloud": "Amazon AWS",
       "aws_services": [
-        "EC2", "S3", "SES", "CloudFront", "CloudWatch", "ELB", "CodeDeploy", "Parameter Store", "AWS CodeDeploy"
+        "EC2", "S3", "SES", "CloudFront", "CloudWatch", "ELB",
+        "CodeDeploy", "Parameter Store", "AWS CodeDeploy"
       ],
-      "running_on": "Docker",
+      "running_on": "Docker"
    },
-   "firewall": ["Cloudflare"],
+   "firewall": "Cloudflare"
 }
 ```
 
