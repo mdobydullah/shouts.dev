@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Remove First &amp; Last Element in Array](https://shouts.dev/articles/javascript-remove-first-last-element-in-array)
+- [Laravel to Set Dynamic Page Title for Each Page](https://shouts.dev/articles/laravel-to-set-dynamic-page-title-for-each-page)
 - [Laravel Integrate Google ReCaptcha v2 in Laravel Application](https://shouts.dev/articles/laravel-9-how-to-integrate-google-recaptcha-in-laravel-application)
 - [Laravel Eloquent Methods withSum&lpar;&rpar;, withMin&lpar;&rpar;, withMax&lpar;&rpar;, withAvg&lpar;&rpar;, withCount&lpar;&rpar;](https://shouts.dev/articles/laravel-eloquent-methods-sum-min-max-avg-count)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
-- [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
-- [JavaScript - Get Length of Array/Object/Arrays of Object](https://shouts.dev/articles/javascript-get-length-of-array-object-arrays-of-object)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
