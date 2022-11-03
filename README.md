@@ -13,10 +13,10 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Get the Values of Input Array Elements](https://shouts.dev/articles/javascript-get-the-values-of-input-array-elements)
 - [Javascript Remove First &amp; Last Element in Array](https://shouts.dev/articles/javascript-remove-first-last-element-in-array)
 - [Laravel to Set Dynamic Page Title for Each Page](https://shouts.dev/articles/laravel-to-set-dynamic-page-title-for-each-page)
 - [Laravel Integrate Google ReCaptcha v2 in Laravel Application](https://shouts.dev/articles/laravel-9-how-to-integrate-google-recaptcha-in-laravel-application)
-- [Laravel Eloquent Methods withSum&lpar;&rpar;, withMin&lpar;&rpar;, withMax&lpar;&rpar;, withAvg&lpar;&rpar;, withCount&lpar;&rpar;](https://shouts.dev/articles/laravel-eloquent-methods-sum-min-max-avg-count)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 <!-- BLOG-POST-LIST:END -->
 
