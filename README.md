@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Change / Override Timestamp Column Names](https://shouts.dev/snippets/laravel-change-override-timestamp-column-names)
+- [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 - [Python Find the Largest Among 3 Numbers](https://shouts.dev/snippets/python-find-the-largest-among-3-numbers)
+- [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
 - [Javascript Get Unique Values from an Array](https://shouts.dev/articles/javascript-get-unique-values-from-an-array)
-- [Javascript Get the Values of Input Array Elements](https://shouts.dev/articles/javascript-get-the-values-of-input-array-elements)
-- [Javascript Remove First &amp; Last Element in Array](https://shouts.dev/articles/javascript-remove-first-last-element-in-array)
-- [Laravel to Set Dynamic Page Title for Each Page](https://shouts.dev/articles/laravel-to-set-dynamic-page-title-for-each-page)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
