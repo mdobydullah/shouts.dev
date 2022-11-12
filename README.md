@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Split String to Array using Pure JS](https://shouts.dev/articles/javascript-split-string-to-array-using-pure-js)
 - [Laravel Set Default Value using Model](https://shouts.dev/articles/laravel-set-default-value-using-model)
 - [Laravel Change / Override Timestamp Column Names](https://shouts.dev/snippets/laravel-change-override-timestamp-column-names)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 - [Python Find the Largest Among 3 Numbers](https://shouts.dev/snippets/python-find-the-largest-among-3-numbers)
-- [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
