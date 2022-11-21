@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Get the Length &lpar;Number of Digits&rpar; in a Number](https://shouts.dev/articles/javascript-get-the-length-number-of-digits-in-a-number)
+- [Laravel How to Get Random Records from Database](https://shouts.dev/articles/laravel-how-to-get-random-records-from-database)
+- [Laravel How to Order by Multiple Columns](https://shouts.dev/articles/laravel-how-to-order-by-multiple-columns)
 - [Laravel Upload Image with CKeditor](https://shouts.dev/articles/laravel-upload-image-with-ckeditor)
 - [jQuery Get/Set Data Attribute Value](https://shouts.dev/articles/javascript-get-set-data-attribute-value)
-- [Javascript Split String to Array using Pure JS](https://shouts.dev/articles/javascript-split-string-to-array-using-pure-js)
-- [Laravel Set Default Value using Model](https://shouts.dev/articles/laravel-set-default-value-using-model)
-- [Laravel Change / Override Timestamp Column Names](https://shouts.dev/snippets/laravel-change-override-timestamp-column-names)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
