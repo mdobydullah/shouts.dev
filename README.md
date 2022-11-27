@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 9 VueJs SPA CRUD with Image](https://shouts.dev/articles/laravel-9-vuejs-spa-crud-with-image)
 - [Javascript Get the Length &lpar;Number of Digits&rpar; in a Number](https://shouts.dev/articles/javascript-get-the-length-number-of-digits-in-a-number)
 - [Laravel How to Get Random Records from Database](https://shouts.dev/articles/laravel-how-to-get-random-records-from-database)
 - [Laravel How to Order by Multiple Columns](https://shouts.dev/articles/laravel-how-to-order-by-multiple-columns)
 - [Laravel Upload Image with CKeditor](https://shouts.dev/articles/laravel-upload-image-with-ckeditor)
-- [jQuery Get/Set Data Attribute Value](https://shouts.dev/articles/javascript-get-set-data-attribute-value)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
