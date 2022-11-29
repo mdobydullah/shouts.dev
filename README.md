@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Create a Dropdown List using Array/Object](https://shouts.dev/articles/javascript-create-a-dropdown-list-using-arrayobject)
 - [Use Environment Variables in Laravel 9 &amp; VueJs 3](https://shouts.dev/articles/use-environment-variables-in-laravel-9-vuejs-3)
 - [Javascript Fixed Number of Digits After Decimal Places](https://shouts.dev/articles/javascript-fixed-number-of-digits-after-decimal-places)
 - [Laravel 9 VueJs SPA CRUD with Image](https://shouts.dev/articles/laravel-9-vuejs-spa-crud-with-image)
 - [Javascript Get the Length &lpar;Number of Digits&rpar; in a Number](https://shouts.dev/articles/javascript-get-the-length-number-of-digits-in-a-number)
-- [Laravel How to Get Random Records from Database](https://shouts.dev/articles/laravel-how-to-get-random-records-from-database)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
