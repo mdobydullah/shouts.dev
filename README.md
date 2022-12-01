@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript get Unique/Non-Unique Values from an Array](https://shouts.dev/articles/javascript-get-uniquenon-unique-values-from-an-array)
+- [Python Swap Two Variables with and without Temporary Variable](https://shouts.dev/snippets/python-swap-two-variables-with-and-without-temporary-variable)
 - [How to Install PHP GD in Docker](https://shouts.dev/snippets/how-to-install-php-gd-in-docker)
 - [Jinja2 Flask If Else Statement](https://shouts.dev/snippets/jinja2-flask-if-else-statement)
 - [JavaScript Create a Dropdown List using Array/Object](https://shouts.dev/articles/javascript-create-a-dropdown-list-using-arrayobject)
-- [Use Environment Variables in Laravel 9 &amp; VueJs 3](https://shouts.dev/articles/use-environment-variables-in-laravel-9-vuejs-3)
-- [Javascript Fixed Number of Digits After Decimal Places](https://shouts.dev/articles/javascript-fixed-number-of-digits-after-decimal-places)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
