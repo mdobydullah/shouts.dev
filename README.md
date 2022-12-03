@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Python Print Even Numbers in a List](https://shouts.dev/snippets/python-print-even-numbers-in-a-list)
+- [Laravel How to Display Social Media Share Icons](https://shouts.dev/articles/laravel-how-to-display-social-media-share-icons)
 - [JavaScript get Unique/Non-Unique Values from an Array](https://shouts.dev/articles/javascript-get-uniquenon-unique-values-from-an-array)
 - [Python Swap Two Variables with and without Temporary Variable](https://shouts.dev/snippets/python-swap-two-variables-with-and-without-temporary-variable)
 - [How to Install PHP GD in Docker](https://shouts.dev/snippets/how-to-install-php-gd-in-docker)
-- [Jinja2 Flask If Else Statement](https://shouts.dev/snippets/jinja2-flask-if-else-statement)
-- [JavaScript Create a Dropdown List using Array/Object](https://shouts.dev/articles/javascript-create-a-dropdown-list-using-arrayobject)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
