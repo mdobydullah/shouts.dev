@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel HTTP x-www-form-urlencoded Request Body](https://shouts.dev/snippets/laravel-http-x-www-form-urlencoded-request-body)
 - [VueJS How to Get Checked Radio Button Value](https://shouts.dev/articles/vuejs-how-to-get-checked-radio-button-value)
 - [Laravel Use Multiple Email SMTP Mailers](https://shouts.dev/articles/laravel-use-multiple-email-smtp-mailers)
 - [JavaScript Get Client IP Address using Pure JavaScript](https://shouts.dev/articles/javascript-get-client-ip-address-using-pure-javascript)
 - [JavaScript Convert Image/File into Base64 String](https://shouts.dev/articles/javascript-convert-image-file-into-base64-string)
-- [JavaScript How to Replace Words in a String](https://shouts.dev/articles/javascript-how-to-replace-words-in-a-string)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
