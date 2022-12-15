@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [VueJS Get Selected Option Text &amp; Value](https://shouts.dev/articles/vuejs-get-selected-option-text-value)
 - [Laravel Install Tailwind CSS 3 with Laravel Vite](https://shouts.dev/articles/laravel-install-tailwind-css-3-with-laravel-vite)
 - [Laravel HTTP x-www-form-urlencoded Request Body](https://shouts.dev/snippets/laravel-http-x-www-form-urlencoded-request-body)
 - [VueJS How to Get Checked Radio Button Value](https://shouts.dev/articles/vuejs-how-to-get-checked-radio-button-value)
 - [Laravel Use Multiple Email SMTP Mailers](https://shouts.dev/articles/laravel-use-multiple-email-smtp-mailers)
-- [JavaScript Get Client IP Address using Pure JavaScript](https://shouts.dev/articles/javascript-get-client-ip-address-using-pure-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
