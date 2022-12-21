@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Remove Quotes/Any Character from String](https://shouts.dev/articles/laravel-remove-quotesany-character-from-string)
 - [How to Get Query String Parameter in VueJS](https://shouts.dev/articles/how-to-get-query-string-parameter-in-vuejs)
 - [VueJS Get Selected Option Text &amp; Value](https://shouts.dev/articles/vuejs-get-selected-option-text-value)
 - [Laravel Install Tailwind CSS 3 with Laravel Vite](https://shouts.dev/articles/laravel-install-tailwind-css-3-with-laravel-vite)
 - [Laravel HTTP x-www-form-urlencoded Request Body](https://shouts.dev/snippets/laravel-http-x-www-form-urlencoded-request-body)
-- [VueJS How to Get Checked Radio Button Value](https://shouts.dev/articles/vuejs-how-to-get-checked-radio-button-value)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
