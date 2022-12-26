@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Create Paginated Data from Array](https://shouts.dev/articles/laravel-create-paginated-data-from-array)
 - [JavaScript Capitalize First Letter of a String](https://shouts.dev/snippets/javascript-capitalize-first-letter-of-a-string)
 - [VueJS Get Data Attribute Value from an Element](https://shouts.dev/articles/vuejs-get-data-attribute-value-from-an-element)
 - [Laravel Remove Quotes/Any Character from String](https://shouts.dev/articles/laravel-remove-quotesany-character-from-string)
 - [How to Get Query String Parameter in VueJS](https://shouts.dev/articles/how-to-get-query-string-parameter-in-vuejs)
-- [VueJS Get Selected Option Text &amp; Value](https://shouts.dev/articles/vuejs-get-selected-option-text-value)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
