@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Hoisting and How to Use This](https://shouts.dev/articles/javascript-hoisting-and-how-to-use-this)
+- [Laravel Pagination with Tailwind CSS](https://shouts.dev/articles/laravel-pagination-with-tailwind-css)
 - [Laravel Redis Caching Performance is Very Slow in Laragon](https://shouts.dev/snippets/laravel-redis-caching-performance-is-very-slow-in-laragon)
 - [VueJs How to Download File using Axios](https://shouts.dev/articles/vuejs-how-to-download-file-using-axios)
 - [Laravel Create Paginated Data from Array](https://shouts.dev/articles/laravel-create-paginated-data-from-array)
-- [JavaScript Capitalize First Letter of a String](https://shouts.dev/snippets/javascript-capitalize-first-letter-of-a-string)
-- [VueJS Get Data Attribute Value from an Element](https://shouts.dev/articles/vuejs-get-data-attribute-value-from-an-element)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
