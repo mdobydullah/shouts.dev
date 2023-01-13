@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Mail using SendGrid in Laravel 9](https://shouts.dev/articles/how-to-send-mail-using-sendgrid-in-laravel-9)
 - [Copy text in raw JavaScript](https://shouts.dev/snippets/copy-text-in-raw-javascript)
 - [Laravel Resource Route and Controller](https://shouts.dev/articles/laravel-resource-route-and-controller)
 - [Laravel Exclude Route from CSRF Middlware](https://shouts.dev/articles/laravel-exclude-route-from-csrf-middlware)
 - [JavaScript Hoisting and How to Use This](https://shouts.dev/articles/javascript-hoisting-and-how-to-use-this)
-- [Laravel Pagination with Tailwind CSS](https://shouts.dev/articles/laravel-pagination-with-tailwind-css)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
