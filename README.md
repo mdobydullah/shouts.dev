@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 9 How to Send Mail using Mailgun](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-mailgun)
 - [How to validation with custom message in controller of Laravel](https://shouts.dev/snippets/how-to-validation-with-custom-message-in-controller-of-laravel)
 - [How to Send Mail using SendGrid in Laravel 9](https://shouts.dev/articles/how-to-send-mail-using-sendgrid-in-laravel-9)
 - [Copy text in raw JavaScript](https://shouts.dev/snippets/copy-text-in-raw-javascript)
 - [Laravel Resource Route and Controller](https://shouts.dev/articles/laravel-resource-route-and-controller)
-- [Laravel Exclude Route from CSRF Middlware](https://shouts.dev/articles/laravel-exclude-route-from-csrf-middlware)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
