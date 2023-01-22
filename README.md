@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 9 How to Send Mail using SendinBlue SMTP](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-sendinblue-smtp)
+- [Laravel 9 How to Send Mail using Zoho SMTP](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-zoho-smtp)
+- [Auto Close all Details Tags after Opening a Specific One](https://shouts.dev/articles/auto-close-all-details-tags-after-opening-a-specific-one)
 - [Laravel 9 How to Send Mail using Mailgun](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-mailgun)
 - [How to validation with custom message in controller of Laravel](https://shouts.dev/snippets/how-to-validation-with-custom-message-in-controller-of-laravel)
-- [How to Send Mail using SendGrid in Laravel 9](https://shouts.dev/articles/how-to-send-mail-using-sendgrid-in-laravel-9)
-- [Copy text in raw JavaScript](https://shouts.dev/snippets/copy-text-in-raw-javascript)
-- [Laravel Resource Route and Controller](https://shouts.dev/articles/laravel-resource-route-and-controller)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
