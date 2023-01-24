@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Simple Tags Input with Tagify in Tailwind CSS](https://shouts.dev/articles/simple-tags-input-with-tagify-in-tailwind-css)
 - [Caddy Redirect all HTTP Requests to HTTPS](https://shouts.dev/articles/caddy-redirect-all-http-requests-to-https)
 - [Laravel 9 How to Send Mail using SendinBlue SMTP](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-sendinblue-smtp)
 - [Laravel 9 How to Send Mail using Zoho SMTP](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-zoho-smtp)
 - [Auto Close all Details Tags after Opening a Specific One](https://shouts.dev/articles/auto-close-all-details-tags-after-opening-a-specific-one)
-- [Laravel 9 How to Send Mail using Mailgun](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-mailgun)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
