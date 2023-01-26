@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel sub query multiple column sum as a AS and make a where condition on it](https://shouts.dev/articles/laravel-sub-query-multiple-column-sum-as-a-as-and-make-a-where-condition-on-it)
+- [Laravel Search in JSON Array Object using WhereJsonContains](https://shouts.dev/articles/laravel-search-in-json-array-object-with-wherejsoncontains)
+- [Laravel Restrict User Access from Specific IP Address](https://shouts.dev/articles/laravel-restrict-user-access-from-specific-ip-address)
 - [Simple Tags Input with Tagify in Tailwind CSS](https://shouts.dev/articles/simple-tags-input-with-tagify-in-tailwind-css)
 - [Caddy Redirect all HTTP Requests to HTTPS](https://shouts.dev/articles/caddy-redirect-all-http-requests-to-https)
-- [Laravel 9 How to Send Mail using SendinBlue SMTP](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-sendinblue-smtp)
-- [Laravel 9 How to Send Mail using Zoho SMTP](https://shouts.dev/articles/laravel-9-how-to-send-mail-using-zoho-smtp)
-- [Auto Close all Details Tags after Opening a Specific One](https://shouts.dev/articles/auto-close-all-details-tags-after-opening-a-specific-one)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
