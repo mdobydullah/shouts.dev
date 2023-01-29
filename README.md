@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Make an HTTP Request](https://shouts.dev/snippets/javascript-make-an-http-request)
+- [Laravel Send Mail using Mailjet SMTP](https://shouts.dev/articles/laravel-send-mail-using-mailjet-smtp)
 - [Difference Between Double Equal &lpar;==&rpar; and Triple Equal  &lpar;===&rpar; in JavaScript](https://shouts.dev/articles/difference-between-double-equal-and-triple-equal-in-javascript)
 - [Laravel Carbon Compare Two Dates without Times](https://shouts.dev/snippets/laravel-carbon-compare-two-dates-without-times)
 - [Laravel sub query multiple column sum as a AS and make a where condition on it](https://shouts.dev/articles/laravel-sub-query-multiple-column-sum-as-a-as-and-make-a-where-condition-on-it)
-- [Laravel Search in JSON Array Object using WhereJsonContains](https://shouts.dev/articles/laravel-search-in-json-array-object-with-wherejsoncontains)
-- [Laravel Restrict User Access from Specific IP Address](https://shouts.dev/articles/laravel-restrict-user-access-from-specific-ip-address)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
