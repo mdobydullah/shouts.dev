@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Extract or Unzip Tar Gz &lpar;.tar.gz, tgz&rpar; File in Linux](https://shouts.dev/articles/extract-or-unzip-tar-gz-file-in-linux)
 - [Javascript Make an HTTP Request](https://shouts.dev/snippets/javascript-make-an-http-request)
 - [Laravel Send Mail using Mailjet SMTP](https://shouts.dev/articles/laravel-send-mail-using-mailjet-smtp)
 - [Difference Between Double Equal &lpar;==&rpar; and Triple Equal  &lpar;===&rpar; in JavaScript](https://shouts.dev/articles/difference-between-double-equal-and-triple-equal-in-javascript)
 - [Laravel Carbon Compare Two Dates without Times](https://shouts.dev/snippets/laravel-carbon-compare-two-dates-without-times)
-- [Laravel sub query multiple column sum as a AS and make a where condition on it](https://shouts.dev/articles/laravel-sub-query-multiple-column-sum-as-a-as-and-make-a-where-condition-on-it)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
