@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to go to catch instead of try in PHP try catch](https://shouts.dev/snippets/how-to-go-to-catch-instead-of-try-in-php-try-catch)
 - [In Laravel &lpar;AND&rpar; OR &lpar;AND&rpar; Query](https://shouts.dev/snippets/in-laravel-and-or-and-query)
 - [React Props and State and the Difference Between Them](https://shouts.dev/articles/react-props-and-state-and-the-difference-between-them)
 - [JavaScript Iterating Object In 2 Ways](https://shouts.dev/articles/javascript-iterating-object-in-2-ways)
 - [AWS CLI Upload / Copy Folders with Files to S3 Bucket](https://shouts.dev/articles/aws-cli-upload-folders-with-files-to-s3-bucket)
-- [Extract or Unzip Tar Gz &lpar;.tar.gz, tgz&rpar; File in Linux](https://shouts.dev/articles/extract-or-unzip-tar-gz-file-in-linux)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
