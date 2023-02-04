@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Check Value is Undefined](https://shouts.dev/snippets/javascript-check-value-is-undefined)
+- [JavaScript Find Nth Root of Number](https://shouts.dev/snippets/javascript-find-nth-root-of-number)
+- [Two or One required filed in Laravel validation](https://shouts.dev/snippets/two-or-one-required-filed-in-laravel-validation)
+- [JavaScript Object Equality Check with Examples](https://shouts.dev/articles/javascript-object-equality-check-with-examples)
 - [How to go to catch instead of try in PHP try catch](https://shouts.dev/snippets/how-to-go-to-catch-instead-of-try-in-php-try-catch)
-- [In Laravel &lpar;AND&rpar; OR &lpar;AND&rpar; Query](https://shouts.dev/snippets/in-laravel-and-or-and-query)
-- [React Props and State and the Difference Between Them](https://shouts.dev/articles/react-props-and-state-and-the-difference-between-them)
-- [JavaScript Iterating Object In 2 Ways](https://shouts.dev/articles/javascript-iterating-object-in-2-ways)
-- [AWS CLI Upload / Copy Folders with Files to S3 Bucket](https://shouts.dev/articles/aws-cli-upload-folders-with-files-to-s3-bucket)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
