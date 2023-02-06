@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Check a Number is Even or Odd](https://shouts.dev/snippets/javascript-check-a-number-is-even-or-odd)
+- [Javascript Check a Number is Even](https://shouts.dev/snippets/javascript-check-a-number-is-even)
+- [Javascript Check a Number is Odd](https://shouts.dev/snippets/javascript-check-a-number-is-odd)
+- [React Update State onChange in an Array of Objects using React Hooks](https://shouts.dev/articles/update-state-onchange-in-an-array-of-objects-using-react-hooks)
 - [JavaScript Check Value is Undefined](https://shouts.dev/snippets/javascript-check-value-is-undefined)
-- [JavaScript Find Nth Root of Number](https://shouts.dev/snippets/javascript-find-nth-root-of-number)
-- [Two or One required filed in Laravel validation](https://shouts.dev/snippets/two-or-one-required-filed-in-laravel-validation)
-- [JavaScript Object Equality Check with Examples](https://shouts.dev/articles/javascript-object-equality-check-with-examples)
-- [How to go to catch instead of try in PHP try catch](https://shouts.dev/snippets/how-to-go-to-catch-instead-of-try-in-php-try-catch)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
