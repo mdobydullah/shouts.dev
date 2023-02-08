@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [React Reduce An Array with Example](https://shouts.dev/articles/how-to-reduce-an-array-in-react)
 - [Javascript Check a Number is Even or Odd](https://shouts.dev/snippets/javascript-check-a-number-is-even-or-odd)
 - [Javascript Check a Number is Even](https://shouts.dev/snippets/javascript-check-a-number-is-even)
 - [Javascript Check a Number is Odd](https://shouts.dev/snippets/javascript-check-a-number-is-odd)
 - [React Update State onChange in an Array of Objects using React Hooks](https://shouts.dev/articles/update-state-onchange-in-an-array-of-objects-using-react-hooks)
-- [JavaScript Check Value is Undefined](https://shouts.dev/snippets/javascript-check-value-is-undefined)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
