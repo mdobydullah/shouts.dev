@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Convert a Value to Safe Integer](https://shouts.dev/snippets/javascript-convert-a-value-to-safe-integer)
 - [Laravel How to Use $loop Variable in Foreach](https://shouts.dev/snippets/laravel-how-to-use-loop-variable-in-foreach)
 - [React Reduce An Array with Example](https://shouts.dev/articles/how-to-reduce-an-array-in-react)
 - [Javascript Check a Number is Even or Odd](https://shouts.dev/snippets/javascript-check-a-number-is-even-or-odd)
 - [Javascript Check a Number is Even](https://shouts.dev/snippets/javascript-check-a-number-is-even)
-- [Javascript Check a Number is Odd](https://shouts.dev/snippets/javascript-check-a-number-is-odd)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
