@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel factory changed in Laravel 8](https://shouts.dev/snippets/laravel-factory-changed-in-laravel-8)
+- [How to add bootstrap pagination in Laravel](https://shouts.dev/snippets/how-to-add-bootstrap-pagination-in-laravel)
 - [How to Use map&lpar;&rpar; in React Application](https://shouts.dev/articles/how-to-use-map-in-react-application)
 - [JavaScript Convert a Value to Safe Integer](https://shouts.dev/snippets/javascript-convert-a-value-to-safe-integer)
 - [Laravel How to Use $loop Variable in Foreach](https://shouts.dev/snippets/laravel-how-to-use-loop-variable-in-foreach)
-- [React Reduce An Array with Example](https://shouts.dev/articles/how-to-reduce-an-array-in-react)
-- [Javascript Check a Number is Even or Odd](https://shouts.dev/snippets/javascript-check-a-number-is-even-or-odd)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
