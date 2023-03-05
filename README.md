@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to create Laravel single table migrate](https://shouts.dev/snippets/how-to-create-laravel-single-table-migrate)
 - [Modularizing Code by Using Export &amp; Import in JavaScript](https://shouts.dev/articles/modularizing-code-by-using-export-import-in-javascript)
 - [How to Map a Nested Array in React](https://shouts.dev/articles/how-to-map-a-nested-array-in-react)
 - [Laravel factory changed in Laravel 8](https://shouts.dev/snippets/laravel-factory-changed-in-laravel-8)
 - [How to add bootstrap pagination in Laravel](https://shouts.dev/snippets/how-to-add-bootstrap-pagination-in-laravel)
-- [How to Use map&lpar;&rpar; in React Application](https://shouts.dev/articles/how-to-use-map-in-react-application)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
