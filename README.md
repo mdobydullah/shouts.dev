@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Add Line Breaks to An HTML Textarea](https://shouts.dev/articles/javascript-add-line-breaks-to-an-html-textarea)
 - [Laravel How to use Scopes for Eloquent Builder](https://shouts.dev/articles/laravel-how-to-use-scopes-for-eloquent-builder)
 - [React Fragment and How To Use It?](https://shouts.dev/articles/react-fragment-and-how-to-use-it)
 - [Create a job in Laravel update version](https://shouts.dev/snippets/create-a-job-in-laravel-in-update-version)
 - [How to create Laravel single table migrate](https://shouts.dev/snippets/how-to-create-laravel-single-table-migrate)
-- [Modularizing Code by Using Export &amp; Import in JavaScript](https://shouts.dev/articles/modularizing-code-by-using-export-import-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
