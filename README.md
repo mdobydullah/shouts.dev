@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Import Inputted Data on JSON File and Download It](https://shouts.dev/articles/laravel-import-inputted-data-on-json-file-and-download-it)
+- [How to Use Sleep in Javascript](https://shouts.dev/snippets/how-to-use-sleep-in-javascript)
+- [JavaScript Add Line Breaks to Javascript Alert Box](https://shouts.dev/snippets/javascript-add-line-breaks-to-javascript-alert-box)
 - [Uploading File from a React Component](https://shouts.dev/articles/uploading-file-from-a-react-component)
 - [Synchronizing Asynchronous Call with Promise.all&lpar;&rpar;](https://shouts.dev/articles/synchronizing-asynchronous-call-with-promiseall)
-- [JavaScript Add Line Breaks to An HTML Textarea](https://shouts.dev/articles/javascript-add-line-breaks-to-an-html-textarea)
-- [React Fragment and How To Use It?](https://shouts.dev/articles/react-fragment-and-how-to-use-it)
-- [Create a job in Laravel update version](https://shouts.dev/snippets/create-a-job-in-laravel-in-update-version)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
