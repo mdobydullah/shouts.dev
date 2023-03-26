@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [What is the Difference Between React Fragment &amp; Array and When to Use](https://shouts.dev/articles/what-is-the-difference-between-react-fragment-array-and-when-to-use)
 - [Laravel Import Inputted Data on JSON File and Download It](https://shouts.dev/articles/laravel-import-inputted-data-on-json-file-and-download-it)
 - [How to Use Sleep in Javascript](https://shouts.dev/snippets/how-to-use-sleep-in-javascript)
 - [JavaScript Add Line Breaks to Javascript Alert Box](https://shouts.dev/snippets/javascript-add-line-breaks-to-javascript-alert-box)
 - [Uploading File from a React Component](https://shouts.dev/articles/uploading-file-from-a-react-component)
-- [Synchronizing Asynchronous Call with Promise.all&lpar;&rpar;](https://shouts.dev/articles/synchronizing-asynchronous-call-with-promiseall)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
