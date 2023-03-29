@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [All You Need to Know About Async &amp; Defer](https://shouts.dev/articles/all-you-need-to-know-about-async-defer)
+- [How to Create and Use Custom Laravel Macro](https://shouts.dev/articles/how-to-create-and-use-custom-laravel-macro)
+- [The List of Macroable Laravel Classes](https://shouts.dev/snippets/the-list-of-macroable-laravel-classes)
 - [Laravel Eloquent Performance Patterns Part 4](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-4)
-- [Laravel Eloquent Performance Patterns - Part 3](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-3)
 - [What is the Difference Between React Fragment &amp; Array and When to Use](https://shouts.dev/articles/what-is-the-difference-between-react-fragment-array-and-when-to-use)
-- [How to Use Sleep in Javascript](https://shouts.dev/snippets/how-to-use-sleep-in-javascript)
-- [JavaScript Add Line Breaks to Javascript Alert Box](https://shouts.dev/snippets/javascript-add-line-breaks-to-javascript-alert-box)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
