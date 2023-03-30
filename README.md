@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Difference between number_format vs round in php](https://shouts.dev/snippets/difference-between-number-format-vs-rounfd-in-php)
 - [All You Need to Know About Async &amp; Defer](https://shouts.dev/articles/all-you-need-to-know-about-async-defer)
 - [How to Create and Use Custom Laravel Macro](https://shouts.dev/articles/how-to-create-and-use-custom-laravel-macro)
 - [The List of Macroable Laravel Classes](https://shouts.dev/snippets/the-list-of-macroable-laravel-classes)
 - [Laravel Eloquent Performance Patterns Part 4](https://shouts.dev/articles/laravel-eloquent-performance-patterns-part-4)
-- [What is the Difference Between React Fragment &amp; Array and When to Use](https://shouts.dev/articles/what-is-the-difference-between-react-fragment-array-and-when-to-use)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
