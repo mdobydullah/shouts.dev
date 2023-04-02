@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Migrate Laravel Webpack/Mix to Vite Step by Step Guideline](https://shouts.dev/articles/migrate-laravel-webpack-mix-to-vite-step-by-step-guideline)
+- [Cache Strategies to Provide a Better UX in your React Applications](https://shouts.dev/articles/cache-strategies-to-provide-a-better-ux-in-your-react-applications)
 - [Laravel Custom mapToRedirect Route Macro](https://shouts.dev/snippets/laravel-custom-maptoredirect-route-macro)
 - [Difference between number_format vs round in php](https://shouts.dev/snippets/difference-between-number-format-vs-rounfd-in-php)
 - [All You Need to Know About Async &amp; Defer](https://shouts.dev/articles/all-you-need-to-know-about-async-defer)
-- [How to Create and Use Custom Laravel Macro](https://shouts.dev/articles/how-to-create-and-use-custom-laravel-macro)
-- [The List of Macroable Laravel Classes](https://shouts.dev/snippets/the-list-of-macroable-laravel-classes)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
