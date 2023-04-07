@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 10 Dropzone Multiple Image Upload](https://shouts.dev/articles/laravel-10-dropzone-multiple-image-upload)
 - [Larave extracting two dates out of one](https://shouts.dev/snippets/larave-extracting-two-dates-out-of-one)
 - [React Props Validation with using PropTypes](https://shouts.dev/articles/react-props-validation-with-using-proptypes)
 - [Flat an Multi Dimensional Array in Javascripta](https://shouts.dev/snippets/flat-an-multi-dimensional-array-in-javascripta)
 - [Migrate Laravel Webpack/Mix to Vite Step by Step Guideline](https://shouts.dev/articles/migrate-laravel-webpack-mix-to-vite-step-by-step-guideline)
-- [Cache Strategies to Provide a Better UX in your React Applications](https://shouts.dev/articles/cache-strategies-to-provide-a-better-ux-in-your-react-applications)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
