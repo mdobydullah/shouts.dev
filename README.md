@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 10 Dropzone Multiple Image Upload](https://shouts.dev/articles/laravel-10-dropzone-multiple-image-upload)
-- [Larave extracting two dates out of one](https://shouts.dev/snippets/larave-extracting-two-dates-out-of-one)
-- [React Props Validation with using PropTypes](https://shouts.dev/articles/react-props-validation-with-using-proptypes)
-- [Flat an Multi Dimensional Array in Javascripta](https://shouts.dev/snippets/flat-an-multi-dimensional-array-in-javascripta)
-- [Migrate Laravel Webpack/Mix to Vite Step by Step Guideline](https://shouts.dev/articles/migrate-laravel-webpack-mix-to-vite-step-by-step-guideline)
+- [Fetching API Data with React.JS using Fetch](https://shouts.dev/articles/fetching-api-data-with-reactjs-using-fetch)
+- [All About JavaScript&#39;s Mysterious NaN](https://shouts.dev/articles/all-about-javascripts-mysterious-isnannan)
+- [Inline styling on react](https://shouts.dev/articles/inline-styling-on-react)
+- [How You Can Use Drag and Drop in Your React App](https://shouts.dev/articles/how-you-can-use-drag-and-drop-in-your-react-app)
+- [React Hook Forms and Validation with Yup](https://shouts.dev/articles/react-hook-forms-and-validation-with-yup)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
