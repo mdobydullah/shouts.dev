@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Upload Large File &lpar;10 GB+&rpar; with Resumablejs and Laravel Chunk Upload](https://shouts.dev/articles/laravel-upload-large-file-with-resumablejs-and-laravel-chunk-upload)
+- [JavaScript How Object.is&lpar;&rpar; Method Works](https://shouts.dev/snippets/javascript-how-objectis-method-works)
+- [JavaScript What is encodeURI&lpar;&rpar; Function and How it Works](https://shouts.dev/snippets/javascript-what-is-encodeuri-function-and-how-it-works)
+- [Javascript How to Sum an Array](https://shouts.dev/snippets/javascript-how-to-sum-an-array)
 - [Fetching API Data with React.JS using Fetch](https://shouts.dev/articles/fetching-api-data-with-reactjs-using-fetch)
-- [All About JavaScript&#39;s Mysterious NaN](https://shouts.dev/articles/all-about-javascripts-mysterious-isnannan)
-- [Inline styling on react](https://shouts.dev/articles/inline-styling-on-react)
-- [How You Can Use Drag and Drop in Your React App](https://shouts.dev/articles/how-you-can-use-drag-and-drop-in-your-react-app)
-- [React Hook Forms and Validation with Yup](https://shouts.dev/articles/react-hook-forms-and-validation-with-yup)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
