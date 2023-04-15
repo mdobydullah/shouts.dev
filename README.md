@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Queue with Parameters Step by Step Example](https://shouts.dev/snippets/laravel-queue-with-parameters-step-by-step-example)
 - [Laravel Calculate Estimated Reading Time](https://shouts.dev/snippets/laravel-calculate-estimated-reading-time)
-- [Laravel Calculate Estimated Reading Time](https://shouts.dev/articles/laravel-calculate-estimated-reading-time)
 - [Laravel Upload Large File &lpar;10 GB+&rpar; with Resumablejs and Laravel Chunk Upload](https://shouts.dev/articles/laravel-upload-large-file-with-resumablejs-and-laravel-chunk-upload)
 - [JavaScript How Object.is&lpar;&rpar; Method Works](https://shouts.dev/snippets/javascript-how-objectis-method-works)
-- [JavaScript How Object.is&lpar;&rpar; Method Works](https://shouts.dev/articles/javascript-how-objectis-method-works)
+- [JavaScript What is encodeURI&lpar;&rpar; Function and How it Works](https://shouts.dev/snippets/javascript-what-is-encodeuri-function-and-how-it-works)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
