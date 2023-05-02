@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Queue with Parameters Step by Step Example](https://shouts.dev/snippets/laravel-queue-with-parameters-step-by-step-example)
-- [Laravel Calculate Estimated Reading Time](https://shouts.dev/snippets/laravel-calculate-estimated-reading-time)
-- [Laravel Upload Large File &lpar;10 GB+&rpar; with Resumablejs and Laravel Chunk Upload](https://shouts.dev/articles/laravel-upload-large-file-with-resumablejs-and-laravel-chunk-upload)
-- [JavaScript How Object.is&lpar;&rpar; Method Works](https://shouts.dev/snippets/javascript-how-objectis-method-works)
-- [JavaScript What is encodeURI&lpar;&rpar; Function and How it Works](https://shouts.dev/snippets/javascript-what-is-encodeuri-function-and-how-it-works)
+- [Laravel 10 -  How to Download File in Laravel](https://shouts.dev/articles/laravel-10-how-to-download-file-in-laravel)
+- [Laravel 10 -How to use Laravel&#39;s Caching Features to Improve Performance](https://shouts.dev/articles/laravel-10-how-to-use-laravels-caching-features-to-improve-performance)
+- [Laravel 10 - How to Generate Fake Data with Laravel&#39;s Faker Library](https://shouts.dev/articles/laravel-10-how-to-generate-fake-data-with-laravels-faker-library)
+- [Laravel 10 - How to Name Things](https://shouts.dev/articles/laravel-10-how-to-name-things)
+- [Laravel 10 - How to Use New @style Attribute](https://shouts.dev/articles/laravel-10-how-to-use-new-at-style-attribute)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
