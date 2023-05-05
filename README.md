@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="https://shouts.dev">
-    <img src="https://shouts.dev/img/logo.png" alt="shouts.dev logo" width="150"/>
+    <img src="https://shouts.dev/img/logo.webp" alt="shouts.dev logo" width="150"/>
   </a>
 </p>
 
