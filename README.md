@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 10 -  How to Download File in Laravel](https://shouts.dev/articles/laravel-10-how-to-download-file-in-laravel)
-- [Laravel 10 -How to use Laravel&#39;s Caching Features to Improve Performance](https://shouts.dev/articles/laravel-10-how-to-use-laravels-caching-features-to-improve-performance)
-- [Laravel 10 - How to Generate Fake Data with Laravel&#39;s Faker Library](https://shouts.dev/articles/laravel-10-how-to-generate-fake-data-with-laravels-faker-library)
-- [Laravel 10 - How to Name Things](https://shouts.dev/articles/laravel-10-how-to-name-things)
-- [Laravel 10 - How to Use New @style Attribute](https://shouts.dev/articles/laravel-10-how-to-use-new-at-style-attribute)
+- [How to Get the Current URL &amp; other URL Properties in React](https://shouts.dev/articles/how-to-get-the-current-url-other-url-properties-in-react)
+- [How to Prevent Infinite Loops When Using useEffect&lpar;&rpar; in ReactJS](https://shouts.dev/articles/how-to-prevent-infinite-loops-when-using-useeffect-in-reactjs)
+- [React Context API vs Props &amp; When to Use What](https://shouts.dev/articles/react-context-api-vs-props-when-to-use-what)
+- [JavaScript Validate User Inputs](https://shouts.dev/articles/javascript-validate-user-inputs)
+- [JavaScript Build an Image Gallery with CSS &amp; JavaScript](https://shouts.dev/articles/javascript-build-an-image-gallery-with-css-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
