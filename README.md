@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Chapter 5 - Usage of Request Class](https://shouts.dev/articles/laravel-usage-of-request-class)
 - [Chapter 4 - Authentication with Breeze](https://shouts.dev/articles/authentication-with-breeze)
 - [Chapter 3 - Deep Dive into Model and Necessary Attributes](https://shouts.dev/articles/deep-dive-into-model-and-necessary-attributes)
 - [How to Get the Current URL &amp; other URL Properties in React](https://shouts.dev/articles/how-to-get-the-current-url-other-url-properties-in-react)
 - [How to Prevent Infinite Loops When Using useEffect&lpar;&rpar; in ReactJS](https://shouts.dev/articles/how-to-prevent-infinite-loops-when-using-useeffect-in-reactjs)
-- [React Context API vs Props &amp; When to Use What](https://shouts.dev/articles/react-context-api-vs-props-when-to-use-what)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
