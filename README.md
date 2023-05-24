@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Chapter 6 - Laravel Design Pattern](https://shouts.dev/articles/laravel-design-pattern)
 - [Turn on multiple window in a single click in JavaScript](https://shouts.dev/snippets/turn-on-multiple-window-in-a-single-click-in-javascript)
 - [fetch anchor tag href value in JavaScript](https://shouts.dev/snippets/fetch-anchor-tag-href-value-in-javascript)
 - [Chapter 5 - Usage of Request Class](https://shouts.dev/articles/laravel-usage-of-request-class)
 - [Chapter 4 - Authentication with Breeze](https://shouts.dev/articles/authentication-with-breeze)
-- [Chapter 3 - Deep Dive into Model and Necessary Attributes](https://shouts.dev/articles/deep-dive-into-model-and-necessary-attributes)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
