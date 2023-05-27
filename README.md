@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to copy past data from clipboard in windows to virtual box Linux](https://shouts.dev/snippets/how-to-copy-past-data-from-clipboard-in-windows-to-virtual-box-linux)
 - [Remove everything from a folder in Linux](https://shouts.dev/snippets/remove-everything-from-a-folder-in-linux)
 - [Chapter 6 - Laravel Design Pattern](https://shouts.dev/articles/laravel-design-pattern)
 - [Turn on multiple window in a single click in JavaScript](https://shouts.dev/snippets/turn-on-multiple-window-in-a-single-click-in-javascript)
 - [fetch anchor tag href value in JavaScript](https://shouts.dev/snippets/fetch-anchor-tag-href-value-in-javascript)
-- [Chapter 5 - Usage of Request Class](https://shouts.dev/articles/laravel-usage-of-request-class)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
