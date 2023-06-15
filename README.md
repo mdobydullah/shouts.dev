@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Chapter 11 - Laravel CRUD Operation with File Upload](https://shouts.dev/articles/chapter-11-laravel-crud-operation-with-file-upload)
 - [Chapter 10 - Laravel Dashboard Templating using Blade Files](https://shouts.dev/articles/chapter-10-laravel-dashboard-templating-using-blade-files)
 - [Chapter 9 - Laravel Localization](https://shouts.dev/articles/chapter-9-laravel-localization)
 - [Chapter 8 - Laravel Observers](https://shouts.dev/articles/chapter-8-laravel-observers)
 - [Chapter 7 - Laravel Flash Messages](https://shouts.dev/articles/chapter-7-laravel-flash-messages)
-- [How to copy past data from clipboard in windows to virtual box Linux](https://shouts.dev/snippets/how-to-copy-past-data-from-clipboard-in-windows-to-virtual-box-linux)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
