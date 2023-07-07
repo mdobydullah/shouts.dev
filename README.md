@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 18 - What is ResourceClass and How to Format API with ResourceClass](https://shouts.dev/articles/chapter-18-what-is-resourceclass-and-how-to-format-api-with-resourceclass)
-- [Chapter 17 - Authentication with JWT](https://shouts.dev/articles/chapter-17-authentication-with-jwt)
-- [Chapter 16 - What is Postman and Testing CRUD with Postman](https://shouts.dev/articles/chapter-16-what-is-postman-and-testing-crud-with-postman)
-- [Chapter 15 - CRUD using REST API](https://shouts.dev/articles/chapter-15-crud-using-rest-api)
-- [Chapter 14 - Social Login with Firebase](https://shouts.dev/articles/chapter-14-social-login-with-firebase)
+- [VueJS Working with Vuex for State Management](https://shouts.dev/articles/vuejs-working-with-vuex-for-state-management)
+- [VueJS How to Create Custom Directives](https://shouts.dev/articles/vuejs-how-to-create-custom-directives)
+- [How to Create a Tooltip using Pure CSS](https://shouts.dev/articles/how-to-create-a-tooltip-using-pure-css)
+- [Implementing a Drag-and-Drop Feature with JavaScript](https://shouts.dev/articles/implementing-a-drag-and-drop-feature-with-javascript)
+- [JavaScript - Implementing a Search Bar with JavaScript and AJAX](https://shouts.dev/articles/javascript-implementing-a-search-bar-with-javascript-and-ajax)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
