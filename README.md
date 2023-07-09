@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [VueJS Working with Vuex for State Management](https://shouts.dev/articles/vuejs-working-with-vuex-for-state-management)
-- [VueJS How to Create Custom Directives](https://shouts.dev/articles/vuejs-how-to-create-custom-directives)
-- [How to Create a Tooltip using Pure CSS](https://shouts.dev/articles/how-to-create-a-tooltip-using-pure-css)
-- [Implementing a Drag-and-Drop Feature with JavaScript](https://shouts.dev/articles/implementing-a-drag-and-drop-feature-with-javascript)
-- [JavaScript - Implementing a Search Bar with JavaScript and AJAX](https://shouts.dev/articles/javascript-implementing-a-search-bar-with-javascript-and-ajax)
+- [JavaScript Build a Responsive Navigation Menu](https://shouts.dev/articles/javascript-build-a-responsive-navigation-menu)
+- [Laravel 10 How to Use Laravel&#39;s Encryption for Data Security](https://shouts.dev/articles/laravel-10-how-to-use-laravels-encryption-for-data-security)
+- [Laravel API Versioning: How to Version Your API](https://shouts.dev/articles/laravel-api-versioning-how-to-version-your-api)
+- [Laravel 10 How to Use Laravel&#39;s Events and Listeners for Event-Driven Architecture](https://shouts.dev/articles/laravel-10-how-to-use-laravels-events-and-listeners-for-event-driven-architecture)
+- [JavaScript use fetch API to make HTTP Requests](https://shouts.dev/articles/javascript-use-fetch-api-to-make-http-requests)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
