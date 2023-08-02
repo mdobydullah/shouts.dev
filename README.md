@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Pruning Failed Jobs](https://shouts.dev/snippets/laravel-pruning-failed-jobs)
 - [Prevent Cross-Site Scripting &lpar;XSS&rpar; in PHP Applications](https://shouts.dev/articles/prevent-cross-site-scripting-in-php-applications)
 - [Laravel 10 How to Add Full Text search using Laravel](https://shouts.dev/articles/how-to-add-full-text-search-using-laravel)
 - [JavaScript Build a Responsive Navigation Menu](https://shouts.dev/articles/javascript-build-a-responsive-navigation-menu)
 - [Laravel 10 How to Use Laravel&#39;s Encryption for Data Security](https://shouts.dev/articles/laravel-10-how-to-use-laravels-encryption-for-data-security)
-- [Laravel API Versioning: How to Version Your API](https://shouts.dev/articles/laravel-api-versioning-how-to-version-your-api)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
