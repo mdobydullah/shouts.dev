@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Dependency Injection with Examples in PHP](https://shouts.dev/articles/understanding-dependency-injection-with-examples-in-php)
 - [Add Git Bash Alias on Windows](https://shouts.dev/snippets/add-git-bash-alias-on-windows)
 - [Run one migration in Laravel](https://shouts.dev/articles/run-one-migration-in-laravel)
 - [Laravel Pruning Failed Jobs](https://shouts.dev/snippets/laravel-pruning-failed-jobs)
 - [Prevent Cross-Site Scripting &lpar;XSS&rpar; in PHP Applications](https://shouts.dev/articles/prevent-cross-site-scripting-in-php-applications)
-- [Laravel 10 How to Add Full Text search using Laravel](https://shouts.dev/articles/how-to-add-full-text-search-using-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
