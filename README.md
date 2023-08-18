@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to Clone a Specific Branch From a Git Repository](https://shouts.dev/snippets/how-to-clone-a-specific-branch-from-a-git-repository)
 - [Laravel 10 Toastr Notification Without any Package](https://shouts.dev/articles/laravel-10-toastr-notification-without-any-package)
 - [Understanding Dependency Injection with Examples in PHP](https://shouts.dev/articles/understanding-dependency-injection-with-examples-in-php)
 - [Add Git Bash Alias on Windows](https://shouts.dev/snippets/add-git-bash-alias-on-windows)
 - [Run one migration in Laravel](https://shouts.dev/snippets/run-one-migration-in-laravel)
-- [Laravel Pruning Failed Jobs](https://shouts.dev/snippets/laravel-pruning-failed-jobs)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
