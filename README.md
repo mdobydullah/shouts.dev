@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Export Multiple Excel Sheets To CSV using VBA](https://shouts.dev/snippets/export-multiple-excel-sheets-to-csv)
+- [Excel VBA Split Excel Sheet into Multiple Sheets](https://shouts.dev/snippets/excel-vba-split-excel-sheet-into-multiple-sheets)
 - [PHP Closure vs Anonymous Function with Example](https://shouts.dev/articles/php-closure-vs-anonymous-function-with-example)
 - [Laravel 10 How to Call External API in Laravel](https://shouts.dev/articles/laravel-10-how-to-call-external-api-in-laravel)
 - [Laravel 10 Usage of latest&lpar;&rpar; for Eloquent Queries](https://shouts.dev/snippets/laravel-10-usage-of-latest-for-eloquent-queries)
-- [Laravel 10 How to use FullCalender with Events and Links](https://shouts.dev/articles/laravel-10-how-to-use-fullcalender-with-events-and-links)
-- [Laravel 10 Crop Image Before Upload](https://shouts.dev/articles/laravel-10-crop-image-before-upload)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
