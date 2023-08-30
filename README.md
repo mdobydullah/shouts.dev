@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 10 How to Create Reusable Component in Laravel](https://shouts.dev/articles/create-reusable-component-in-laravel)
 - [Export Multiple Excel Sheets To CSV using VBA](https://shouts.dev/snippets/export-multiple-excel-sheets-to-csv)
 - [Excel VBA Split Excel Sheet into Multiple Sheets](https://shouts.dev/snippets/excel-vba-split-excel-sheet-into-multiple-sheets)
 - [PHP Closure vs Anonymous Function with Example](https://shouts.dev/articles/php-closure-vs-anonymous-function-with-example)
 - [Laravel 10 How to Call External API in Laravel](https://shouts.dev/articles/laravel-10-how-to-call-external-api-in-laravel)
-- [Laravel 10 Usage of latest&lpar;&rpar; for Eloquent Queries](https://shouts.dev/snippets/laravel-10-usage-of-latest-for-eloquent-queries)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
