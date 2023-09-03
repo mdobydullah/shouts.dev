@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 10 How to Add Input Mask using jQuery in Laravel](https://shouts.dev/articles/laravel-10-how-to-add-input-mask-using-jquery-in-laravel)
+- [How to Auto Select Country Using jQuery IP Lookup](https://shouts.dev/articles/how-to-auto-select-country-using-jquery-ip-lookup)
+- [Laravel 10 Get All Month Between Two Dates using Carbon](https://shouts.dev/articles/laravel-10-get-all-month-between-two-dates-using-carbon)
 - [How to Validate Phone Number using jQuery](https://shouts.dev/articles/how-to-validate-phone-number-using-jquery)
 - [Laravel 10 How to Create Reusable Component in Laravel](https://shouts.dev/articles/create-reusable-component-in-laravel)
-- [Export Multiple Excel Sheets To CSV using VBA](https://shouts.dev/snippets/export-multiple-excel-sheets-to-csv)
-- [Excel VBA Split Excel Sheet into Multiple Sheets](https://shouts.dev/snippets/excel-vba-split-excel-sheet-into-multiple-sheets)
-- [PHP Closure vs Anonymous Function with Example](https://shouts.dev/articles/php-closure-vs-anonymous-function-with-example)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
