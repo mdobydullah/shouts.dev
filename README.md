@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 10 How to Add Input Mask using jQuery in Laravel](https://shouts.dev/articles/laravel-10-how-to-add-input-mask-using-jquery-in-laravel)
-- [How to Auto Select Country Using jQuery IP Lookup](https://shouts.dev/articles/how-to-auto-select-country-using-jquery-ip-lookup)
-- [Laravel 10 Get All Month Between Two Dates using Carbon](https://shouts.dev/articles/laravel-10-get-all-month-between-two-dates-using-carbon)
-- [How to Validate Phone Number using jQuery](https://shouts.dev/articles/how-to-validate-phone-number-using-jquery)
-- [Laravel 10 How to Create Reusable Component in Laravel](https://shouts.dev/articles/create-reusable-component-in-laravel)
+- [Lambda vs Anonymous Function in PHP](https://shouts.dev/articles/lambda-vs-anonymous-function-in-php)
+- [Laravel 10 Carbon Change Timezone Example](https://shouts.dev/articles/laravel-10-carbon-change-timezone-example)
+- [How to Show Data in Modal using Ajax in Laravel 10](https://shouts.dev/articles/how-to-show-data-in-modal-using-ajax-in-laravel-10)
+- [How to Use Custom Pagination in Laravel 10](https://shouts.dev/articles/how-to-use-custom-pagination-in-laravel-10)
+- [Laravel 10 How to Generate a Dropdown List of Timezone in Laravel](https://shouts.dev/articles/how-to-generate-a-dropdown-list-of-timezone-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
