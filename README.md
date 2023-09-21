@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Get attribute and class not active in Html](https://shouts.dev/snippets/get-attribute-and-class-not-active-in-html)
 - [Rename / Change a Git Commit Message](https://shouts.dev/snippets/rename-a-git-commit-message)
 - [Laravel 10 Create Zip File and Download](https://shouts.dev/articles/laravel-10-create-zip-file-and-download)
 - [Laravel 10 - Load More Data on Button Click using JQuery](https://shouts.dev/articles/laravel-10-load-more-data-on-button-click-using-jquery)
 - [Laravel 10 - How To Handle No Query Results For Model&quot; Error](https://shouts.dev/articles/laravel-10-how-to-handle-no-query-results-for-model-error)
-- [Getting error to install php artisan ui react --auth for Laravel react ui the error is Could not resolve dependency: peer vite@&quot;^3.0.0&quot; from @vitejs/plugin-react@2.2.0](https://shouts.dev/snippets/getting-error-to-install-php-artisan-ui-react-auth-for-laravel-react-ui-the-error-is-could-not-resolve-dependency-peer-vite-at-300-from-at-vitejsplugin-react-at-220)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
