@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Blade Remove the Last Comma from Foreach Loop](https://shouts.dev/snippets/laravel-blade-remove-the-last-comma-from-foreach-loop)
 - [Laravel 10 Generate PDF and Send Email Example](https://shouts.dev/articles/laravel-10-generate-pdf-and-send-email-example)
 - [Check Current Laravel Version of Your Project](https://shouts.dev/articles/check-current-laravel-version-of-your-project)
 - [Get attribute and class not active in Html](https://shouts.dev/snippets/get-attribute-and-class-not-active-in-html)
 - [Rename / Change a Git Commit Message](https://shouts.dev/snippets/rename-a-git-commit-message)
-- [Laravel 10 Create Zip File and Download](https://shouts.dev/articles/laravel-10-create-zip-file-and-download)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
