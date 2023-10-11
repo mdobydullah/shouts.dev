@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Two way to upload file in Laravel](https://shouts.dev/snippets/two-way-to-upload-file-in-laravel)
 - [Did you forget to use the [uses&lpar;&rpar;] function? get this error after install pest in laravel](https://shouts.dev/snippets/did-you-forget-to-use-the-uses-function-get-this-error-after-install-pest-in-laravel)
 - [Laravel Blade Remove the Last Comma from Foreach Loop](https://shouts.dev/snippets/laravel-blade-remove-the-last-comma-from-foreach-loop)
 - [Laravel 10 Generate PDF and Send Email Example](https://shouts.dev/articles/laravel-10-generate-pdf-and-send-email-example)
 - [Check Current Laravel Version of Your Project](https://shouts.dev/articles/check-current-laravel-version-of-your-project)
-- [Get attribute and class not active in Html](https://shouts.dev/snippets/get-attribute-and-class-not-active-in-html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
