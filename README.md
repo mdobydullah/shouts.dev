@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [2 dimensional array sum the value](https://shouts.dev/snippets/2-dimensional-array-sum-the-value)
 - [Delete the file or image from storage in Laravel](https://shouts.dev/snippets/delete-the-file-or-image-from-storage-in-laravel)
 - [Laravel 10 Laravel withSum&lpar;&rpar; with Where Condition Example](https://shouts.dev/articles/laravel-10-laravel-withsum-with-where-condition-example)
 - [Laravel 10 Using whereBetween Query in Laravel](https://shouts.dev/articles/laravel-10-using-wherebetween-query-in-laravel)
 - [Two way to upload file in Laravel](https://shouts.dev/snippets/two-way-to-upload-file-in-laravel)
-- [Did you forget to use the [uses&lpar;&rpar;] function? get this error after install pest in laravel](https://shouts.dev/snippets/did-you-forget-to-use-the-uses-function-get-this-error-after-install-pest-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
