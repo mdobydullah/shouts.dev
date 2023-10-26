@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [firstOrNew, firstOrCreate, firstOr, and updateOrCreate methods in Laravel](https://shouts.dev/snippets/firstornew-firstorcreate-firstor-and-updateorcreate-methods-in-laravel)
+- [onChange select2 in livewire 3 dose not working](https://shouts.dev/snippets/onchange-select2-in-livewire-3-dose-not-working)
 - [Target class [Spatie\Permission\Middleware\RoleMiddleware] does not exist.](https://shouts.dev/snippets/target-class-spatiepermissionmiddlewarerolemiddleware-does-not-exist)
 - [Carbon this month all days in an array in PHP](https://shouts.dev/snippets/carbon-this-month-all-days-in-an-array-in-php)
 - [2 dimensional array sum the value](https://shouts.dev/snippets/2-dimensional-array-sum-the-value)
-- [Delete the file or image from storage in Laravel](https://shouts.dev/snippets/delete-the-file-or-image-from-storage-in-laravel)
-- [Laravel 10 Laravel withSum&lpar;&rpar; with Where Condition Example](https://shouts.dev/articles/laravel-10-laravel-withsum-with-where-condition-example)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
