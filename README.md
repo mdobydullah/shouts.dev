@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Create dynamic model name in livewire 3](https://shouts.dev/snippets/create-dynamic-model-name-in-livewire-3)
 - [firstOrNew, firstOrCreate, firstOr, and updateOrCreate methods in Laravel](https://shouts.dev/snippets/firstornew-firstorcreate-firstor-and-updateorcreate-methods-in-laravel)
 - [onChange select2 in livewire 3 dose not working](https://shouts.dev/snippets/onchange-select2-in-livewire-3-dose-not-working)
 - [Target class [Spatie\Permission\Middleware\RoleMiddleware] does not exist.](https://shouts.dev/snippets/target-class-spatiepermissionmiddlewarerolemiddleware-does-not-exist)
 - [Carbon this month all days in an array in PHP](https://shouts.dev/snippets/carbon-this-month-all-days-in-an-array-in-php)
-- [2 dimensional array sum the value](https://shouts.dev/snippets/2-dimensional-array-sum-the-value)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
