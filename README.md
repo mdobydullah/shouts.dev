@@ -13,10 +13,10 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Add extra string in Laravel from search query result by pluck](https://shouts.dev/snippets/add-extra-string-in-laravel-from-search-query-result-by-pluck)
 - [Laravel 10 Filter Collection Items using where&lpar;&rpar;](https://shouts.dev/articles/laravel-10-filter-collection-items-using-where)
 - [The accordion body disappeared after being expanded in Tailwind CSS](https://shouts.dev/snippets/the-accordion-body-disappeared-after-being-expanded-in-tailwind-css)
 - [Install Java on Kali Linux](https://shouts.dev/articles/install-java-on-kali-linux)
-- [Laravel 10 Add Social Login in Laravel With Socialite](https://shouts.dev/articles/laravel-10-add-social-login-in-laravel-with-socialite)
 - [Reuse The Same FormRequest Class for Both store&lpar;&rpar; and update&lpar;&rpar; in Laravel](https://shouts.dev/snippets/reuse-the-same-formrequest-class-for-both-store-and-update-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
