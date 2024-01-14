@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to pass input data outside of Livewire component in Livewire 3](https://shouts.dev/snippets/how-to-pass-input-data-outside-of-livewire-component-in-livewire-3)
 - [Upload an image and instant show or preview that image in html form](https://shouts.dev/snippets/upload-an-image-and-instant-show-or-preview-that-image-in-html-form)
 - [Laravel 10 Collection – Using toJson&lpar;&rpar; Method](https://shouts.dev/articles/laravel-10-collection-using-tojson-method)
 - [Laravel 10 Collection – Using splice&lpar;&rpar; Method to Remove Items](https://shouts.dev/articles/laravel-10-collection-using-splice-method-to-remove-items)
 - [Add extra string in Laravel from search query result by pluck](https://shouts.dev/snippets/add-extra-string-in-laravel-from-search-query-result-by-pluck)
-- [Laravel 10 Filter Collection Items using where&lpar;&rpar;](https://shouts.dev/articles/laravel-10-filter-collection-items-using-where)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
