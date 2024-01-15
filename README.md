@@ -13,10 +13,10 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Make array as an object in PHP](https://shouts.dev/snippets/make-array-as-an-object-in-php)
 - [How to pass input data outside of Livewire component in Livewire 3](https://shouts.dev/snippets/how-to-pass-input-data-outside-of-livewire-component-in-livewire-3)
 - [Upload an image and instant show or preview that image in html form](https://shouts.dev/snippets/upload-an-image-and-instant-show-or-preview-that-image-in-html-form)
 - [Laravel 10 Collection – Using toJson&lpar;&rpar; Method](https://shouts.dev/articles/laravel-10-collection-using-tojson-method)
-- [Laravel 10 Collection – Using splice&lpar;&rpar; Method to Remove Items](https://shouts.dev/articles/laravel-10-collection-using-splice-method-to-remove-items)
 - [Add extra string in Laravel from search query result by pluck](https://shouts.dev/snippets/add-extra-string-in-laravel-from-search-query-result-by-pluck)
 <!-- BLOG-POST-LIST:END -->
 
