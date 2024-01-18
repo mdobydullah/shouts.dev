@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 10 How to Convert String to CamelCase in Laravel?](https://shouts.dev/articles/laravel-10-how-to-convert-string-to-camelcase-in-laravel)
+- [Laravel 10 Check If String Starts with Specific Value Example](https://shouts.dev/articles/laravel-10-check-if-string-starts-with-specific-value-example)
+- [Laravel 10 Eloquent Where Not Equal To Condition Example](https://shouts.dev/articles/laravel-10-eloquent-where-not-equal-to-condition-example)
 - [Make array as an object in PHP](https://shouts.dev/snippets/make-array-as-an-object-in-php)
 - [How to pass input data outside of Livewire component in Livewire 3](https://shouts.dev/snippets/how-to-pass-input-data-outside-of-livewire-component-in-livewire-3)
-- [Upload an image and instant show or preview that image in html form](https://shouts.dev/snippets/upload-an-image-and-instant-show-or-preview-that-image-in-html-form)
-- [Laravel 10 Collection – Using toJson&lpar;&rpar; Method](https://shouts.dev/articles/laravel-10-collection-using-tojson-method)
-- [Add extra string in Laravel from search query result by pluck](https://shouts.dev/snippets/add-extra-string-in-laravel-from-search-query-result-by-pluck)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
