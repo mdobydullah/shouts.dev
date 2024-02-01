@@ -13,9 +13,9 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Login With Email Or Username In One Field in Laravel](https://shouts.dev/snippets/login-with-email-or-username-in-one-field-in-laravel)
+- [How to git init local repo in github](https://shouts.dev/snippets/how-to-git-init-local-repo-in-github)
 - [Laravel 10 How to Convert String to CamelCase in Laravel?](https://shouts.dev/articles/laravel-10-how-to-convert-string-to-camelcase-in-laravel)
-- [Laravel 10 Check If String Starts with Specific Value Example](https://shouts.dev/articles/laravel-10-check-if-string-starts-with-specific-value-example)
-- [Laravel 10 Eloquent Where Not Equal To Condition Example](https://shouts.dev/articles/laravel-10-eloquent-where-not-equal-to-condition-example)
 - [Make array as an object in PHP](https://shouts.dev/snippets/make-array-as-an-object-in-php)
 - [How to pass input data outside of Livewire component in Livewire 3](https://shouts.dev/snippets/how-to-pass-input-data-outside-of-livewire-component-in-livewire-3)
 <!-- BLOG-POST-LIST:END -->
