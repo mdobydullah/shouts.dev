@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to use paginator in Laravel API resources by default](https://shouts.dev/snippets/how-to-use-paginator-in-laravel-api-resources-by-default)
 - [What is horizontal and vertical scalability or horizontal scalability vs vertical scalability](https://shouts.dev/snippets/what-is-horizontal-and-vertical-scalability-or-horizontal-scalability-vs-vertical-scalability)
 - [Laravel 10 - Laravel Cache Redis And File Store Tutorial With Example.](https://shouts.dev/articles/laravel-10-laravel-cache-redis-and-file-store-tutorial-with-example)
 - [Laravel 10 - Laravel Circuit Breaker Pattern Example](https://shouts.dev/articles/laravel-10-laravel-circuit-breaker-pattern-example)
 - [Login With Email Or Username In One Field in Laravel](https://shouts.dev/snippets/login-with-email-or-username-in-one-field-in-laravel)
-- [How to git init local repo in github](https://shouts.dev/snippets/how-to-git-init-local-repo-in-github)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
