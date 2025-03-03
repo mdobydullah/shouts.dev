@@ -13,11 +13,11 @@ A platform to learn and share solutions to dev queries.
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Preview Laravel Mailable&#39;s Blade template](https://shouts.dev/snippets/preview-laravel-mailables-blade-template)
 - [Benchmark the Performance of a Redis Server](https://shouts.dev/articles/benchmark-the-performance-of-a-redis-server)
 - [PHP Standards and Coding Styles Followed by EF Laravel Developers](https://shouts.dev/articles/php-standards-and-coding-styles-followed-by-ef-laravel-developers)
 - [How to use paginator in Laravel API resources by default](https://shouts.dev/snippets/how-to-use-paginator-in-laravel-api-resources-by-default)
 - [What is horizontal and vertical scalability or horizontal scalability vs vertical scalability](https://shouts.dev/snippets/what-is-horizontal-and-vertical-scalability-or-horizontal-scalability-vs-vertical-scalability)
-- [Laravel 10 - Laravel Cache Redis And File Store Tutorial With Example.](https://shouts.dev/articles/laravel-10-laravel-cache-redis-and-file-store-tutorial-with-example)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Build With:**
