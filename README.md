@@ -15,7 +15,7 @@ A platform to learn and share solutions to dev queries.
 <!-- BLOG-POST-LIST:START -->
 - [Tailwind dynamic modal with javascript](https://shouts.dev/snippets/tailwind-dynamic-modal-with-javascript)
 - [Preview Laravel Mailable&#39;s Blade template](https://shouts.dev/snippets/preview-laravel-mailables-blade-template)
-- [Benchmark the Performance of a Redis Server](https://shouts.dev/articles/benchmark-the-performance-of-a-redis-server)
+- [Benchmark the Performance of a Redis Server](https://shouts.dev/snippets/benchmark-the-performance-of-a-redis-server)
 - [PHP Standards and Coding Styles Followed by EF Laravel Developers](https://shouts.dev/articles/php-standards-and-coding-styles-followed-by-ef-laravel-developers)
 - [How to use paginator in Laravel API resources by default](https://shouts.dev/snippets/how-to-use-paginator-in-laravel-api-resources-by-default)
 <!-- BLOG-POST-LIST:END -->
